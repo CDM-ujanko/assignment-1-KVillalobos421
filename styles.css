@@ -1,0 +1,16 @@
+
+body {
+background-color: aqua;
+
+}
+h1{
+color:navy;
+font-size: 40px;
+}
+h2{
+color: rebeccapurple;
+font-size: 30px
+}
+div.a, div.b, div.c {
+text-align: center;
+}
