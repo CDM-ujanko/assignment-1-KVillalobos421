@@ -11,6 +11,10 @@ h2{
 color: rebeccapurple;
 font-size: 30px
 }
+p{
+font-style: verdana;
+font-size: 20px;
+}
 div.a, div.b, div.c {
 text-align: center;
 }
